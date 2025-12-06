@@ -1,0 +1,5 @@
+TWILIO_ACCOUNT_SID = "AC13eda3cc8d58b1022fc107e7ae2788bb"
+TWILIO_AUTH_TOKEN = "f2db3cd1217aa7de0612b9fc8a93e260"
+TWILIO_FROM_NUMBER = "+19787888310"  # your Twilio number
+EMERGENCY_CONTACT = "8306975483"  # or your local emergency number
+GEMINI_API_KEY = "AIzaSyDYqZIgeAqGR9pU0fkbJaRPpozP-aSgO5c"

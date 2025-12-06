@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.myenv/
+myenv/
+
+# VS Code
+.vscode/
+
+# Cache / Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FastAPI / Streamlit uploads
+uploads/
