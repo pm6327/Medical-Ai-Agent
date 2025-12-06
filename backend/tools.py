@@ -1,4 +1,5 @@
 # Step1: Setup Ollama with Medgemma tool
+# tools,py
 import ollama
 
 
@@ -91,4 +92,4 @@ def call_emergency():
     )
 
 
-# Step3: Setup Location tool
+# Step: Setup Location tool

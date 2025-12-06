@@ -1,7 +1,7 @@
 from langchain.tools import tool
 
 from tools import query_medgemma, call_emergency
-
+# medgemma tool -> therapeutic response generator
 # ---------- Tools ----------
 
 
